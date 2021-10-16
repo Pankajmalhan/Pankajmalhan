@@ -11,12 +11,12 @@
 
 <br />
 
-Hi, I'm Pankaj Kumar Choudhary, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping) and model training. After some time you can call me self-taught Data Science Engineer from India. 
+Hi, I'm Pankaj Kumar Choudhary, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Machine Learning, Computer Vision and NLP. I am self-taught Full Stack Data Science Engineer from India. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [KetanGangal](https://twitter.com/ketan_gangal);
+- 📫 How to reach me: [PankajChoudhary](https://www.linkedin.com/in/pankaj-kumar-choudhary-a2b930a8/);
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/ketangangal)
 - 📝 [Resume](https://drive.google.com/file/d/1yPVZqfquTSjbANOXy-0Lf5ubRdSfHpqI/view?usp=sharing)
 
