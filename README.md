@@ -48,7 +48,8 @@ I am a passionate and Aspiring Data Scientist. I am enhancing my knowledge with 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="flask" width="80" height="40"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="flask" width="80" height="40"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="flask" width="80" height="40"/>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="flask" width="80" height="40"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="flask" width="80" height="40"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="flask" width="80" height="40"/>
 </p>
 <h3 align="left">Databases:</h3>
 <p align="left">
@@ -57,7 +58,6 @@ I am a passionate and Aspiring Data Scientist. I am enhancing my knowledge with 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="flask" width="80" height="40"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="flask" width="80" height="40"/>
  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="flask" width="80" height="40"/>
- <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="flask" width="80" height="40"/>
 </p>
 <h3 align="left">FrontEnd Techs:</h3>
 <p align="left">
@@ -66,7 +66,6 @@ I am a passionate and Aspiring Data Scientist. I am enhancing my knowledge with 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="flask" width="80" height="40"/>
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="flask" width="80" height="40"/>
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="flask" width="80" height="40"/>
- <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="flask" width="80" height="40"/>
 </p>
 <h3 align="left">Mobile Development:</h3>
 <p align="left">
@@ -79,7 +78,6 @@ I am a passionate and Aspiring Data Scientist. I am enhancing my knowledge with 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="flask" width="80" height="40"/>
 <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" alt="flask" width="80" height="40"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="flask" width="80" height="40"/>
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="flask" width="80" height="40"/>
 </p>
 https://github-readme-stats.vercel.app/api?username=Pankajmalhan
 📈 My GitHub Stats
