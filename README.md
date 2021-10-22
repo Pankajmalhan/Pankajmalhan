@@ -79,6 +79,12 @@ I am a passionate and Aspiring Data Scientist. I am enhancing my knowledge with 
 <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" alt="flask" width="80" height="40"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="flask" width="80" height="40"/>
 </p>
-https://github-readme-stats.vercel.app/api?username=Pankajmalhan
-📈 My GitHub Stats
+
+*My Github stats*
+
+![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=Pankajmalhan&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajmalhan&layout=compact&show_icons=true&theme=radical)
+
 
