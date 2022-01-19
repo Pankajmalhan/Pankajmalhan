@@ -20,7 +20,7 @@ I am a passionate and Aspiring Data Scientist. I am enhancing my knowledge with 
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [PankajChoudhary](https://www.linkedin.com/in/pankaj-kumar-choudhary-a2b930a8/);
-- 📝 [Resume](https://drive.google.com/file/d/1XDzYHE7wlhD_Ksrnf-qIr8FRC6W16b5G/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1x-N7mlmkqnf8PhPcWinIWB0vlQ_iHPqP/view?usp=sharing)
 
 <h2 align="left">My knowledge & Experience:</h2>
 <h3 align="left">Machine Learning Techs:</h3>
